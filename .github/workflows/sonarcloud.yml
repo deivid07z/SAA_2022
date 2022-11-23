@@ -50,5 +50,4 @@ jobs:
         with:
           args: 
             -Dsonar.projectKey=sonar_20223
-            -Dsonar.organization=scva
             -Dsonar.sources=src
